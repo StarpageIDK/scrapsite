@@ -154,7 +154,7 @@ header.scrolled {
 
 .desktop-nav a {
     text-decoration: none;
-    color: var(--primary-blue);
+    color: #95500C;
     font-weight: 700;
     transition: color 0.3s ease;
 }
@@ -174,7 +174,7 @@ header.scrolled {
 .mobile-menu-toggle span {
     width: 25px;
     height: 3px;
-    background-color: var(--primary-blue);
+    background-color: #95500C;
     margin: 3px 0;
     transition: 0.3s;
 }
@@ -200,7 +200,7 @@ header.scrolled {
     display: block;
     padding: 0.5rem 1rem;
     text-decoration: none;
-    color: var(--primary-blue);
+    color: #95500C;
     background: transparent;
     transition: background-color 0.3s ease, color .3s ease;
 }
@@ -247,7 +247,7 @@ main {
 
 .hero-content h1 {
     font-size: 3rem;
-    color: var(--primary-blue);
+    color: #95500C;
     margin-bottom: 1rem;
     font-weight: 700;
 }
@@ -260,15 +260,15 @@ main {
 
 .cta-button {
     display: inline-block;
-    background: linear-gradient(45deg, #69cfff, #51bfff);
-    color: #ffef99;
+    background: linear-gradient(45deg, #ff9900, #ffa61f);
+    color: #ffffff;
     padding: 1rem 2rem;
     text-decoration: none;
     border-radius: 50px;
     font-weight: 600;
     font-size: 1.1rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    box-shadow: 0 5px 15px rgba(255, 215, 0, 0.4);
+    box-shadow: 0 5px 15px rgb(255, 255, 255);
 }
 
 .cta-button:hover {
@@ -286,7 +286,7 @@ main {
 .about-product-page h1 {
     margin-top: 2.5rem;
     text-align: center;
-    color: var(--primary-blue);
+    color: #95500C;
     font-size: 2.5rem;
     margin-bottom: 3rem;
 }
@@ -311,7 +311,7 @@ main {
 }
 
 .info-block h3 {
-    color: var(--primary-blue);
+    color: #95500C;
     font-size: 1.5rem;
     margin-bottom: 1rem;
     border-bottom: 3px solid var(--primary-yellow);
@@ -331,7 +331,7 @@ main {
 
 .about-us-page h1 {
     text-align: center;
-    color: var(--primary-blue);
+    color: #95500C;
     font-size: 2.5rem;
     margin-bottom: 3rem;
 }
@@ -385,7 +385,7 @@ main {
 
 .contacts-page h1 {
     text-align: center;
-    color: var(--primary-blue);
+    color: #95500C;
     font-size: 2.5rem;
     margin-bottom: 3rem;
 }
@@ -563,7 +563,7 @@ main {
         display: block;
         padding: 1rem 2rem;
         text-decoration: none;
-        color: var(--primary-blue);
+        color: #95500C;
         font-size: 1.5rem;
         font-weight: 700;
         background: transparent;
@@ -573,9 +573,9 @@ main {
     }
     
     .mobile-nav a:hover {
-        background-color: var(--primary-blue);
+        background-color: #95500C;
         color: var(--white);
-        border-color: var(--primary-blue);
+        border-color: #95500C;
         transform: translateY(-2px);
         box-shadow: 0 8px 25px rgba(43, 92, 230, 0.3);
     }
@@ -631,15 +631,15 @@ main {
         justify-content: center;
         font-size: 4rem;
         font-weight: 300;
-        color: var(--primary-blue);
+        color: #95500C;
         transition: all 0.3s ease;
         border: 2px solid transparent;
     }
     
     .mobile-nav-close:hover {
-        background-color: var(--primary-blue);
+        background-color: #95500C;
         color: var(--white);
-        border-color: var(--primary-blue);
+        border-color: #95500C;
         transform: scale(1.1);
     }
     
