@@ -491,6 +491,11 @@ main {
 
 /* Mobile Responsive */
 @media (max-width: 768px) {
+
+    header {
+        height: 5.5rem;
+    }
+
     header .container {
         justify-content: space-between;
         padding: 0rem 20px;
@@ -501,7 +506,7 @@ main {
     }
     
     .logo img {
-        height: 6.5rem;
+        height: 6rem;
     }
 
     .desktop-nav {
