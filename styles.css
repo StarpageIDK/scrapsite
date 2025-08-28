@@ -124,6 +124,7 @@ header {
     right: 0;
     z-index: 1000;
     transition: background-color .25s ease, box-shadow .25s ease, backdrop-filter .25s ease;
+    height: 6rem;
 }
 
 header .container {
@@ -492,7 +493,7 @@ main {
 @media (max-width: 768px) {
     header .container {
         justify-content: space-between;
-        padding: 0.5rem 20px;
+        padding: 0rem 20px;
     }
     
     .logo {
@@ -500,7 +501,7 @@ main {
     }
     
     .logo img {
-        height: 110px;
+        height: 6.5rem;
     }
 
     .desktop-nav {
